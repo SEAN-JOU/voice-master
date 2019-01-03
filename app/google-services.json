@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "302889407744",
+    "firebase_url": "https://ai-talker.firebaseio.com",
+    "project_id": "ai-talker",
+    "storage_bucket": "ai-talker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302889407744:android:ad6320c39fcaf4e8",
+        "android_client_info": {
+          "package_name": "com.example.arti.voicetotext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302889407744-5q94tvtijecfsapokcjt6g24gg0v223p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.arti.voicetotext",
+            "certificate_hash": "6c9ef9aa00d706b81bf58180e42f475566de77ac"
+          }
+        },
+        {
+          "client_id": "302889407744-22gvbrdbte5e3nuv6dphh1u4mh3170k9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7BU_L4cdh4J0j8GIecRcgPVvGaGm-U0c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302889407744-22gvbrdbte5e3nuv6dphh1u4mh3170k9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
